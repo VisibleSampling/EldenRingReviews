@@ -1,5 +1,9 @@
 # Elden Ring DLC Review breakdown
 
+
+Note: I am not a DBA or even a software developer. Just an admin with some minor understanding of Python and data analysis. As a result some of my data may be incorrect, or inaccurate. However I believe that my conclusion is correct
+
+
 These scripts are tools to download the Steam reviews for the Elden Ring DLC - Shadow of the Erdtree and can be used to analyze the results to help understand what actually happened during the reivew bomb.
 
 The existing set of reviews was downloaded on June 28th 2024
